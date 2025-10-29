@@ -33,3 +33,4 @@ By leveraging blockchain, it ensures **data integrity**, **public trust**, and *
 - Role-based access (Police, Citizen, Court)
 - IPFS integration for document uploads
 - Web3 frontend dashboard for easy FIR registration and lookup
+<img width="1919" height="838" alt="image" src="https://github.com/user-attachments/assets/2a8e0d13-0f8d-45ae-bbaf-b0534bc6f645" />
